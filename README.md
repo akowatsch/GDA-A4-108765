@@ -15,6 +15,6 @@ Following data was used to replicate the article in Markdown:
 - **Picture-File (Pandas.webp)**
    - This picture is embedded into the Notebook-File and displayed in the resulting HTML-File.
 
-The original working files (`.ipynb`, `.webp`) and the output file (`.html`) files are located in the repository "GDA-A4-108765".
+The original working files (`.ipynb`, `.webp`) and the output file (`.html`) are located in the repository "GDA-A4-108765".
 
 The final output version of the replicated article is located in the subfolder "dist".
